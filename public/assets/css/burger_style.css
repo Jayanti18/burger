@@ -1,0 +1,37 @@
+body {
+    background-color: #ac9128;
+}
+
+.content {
+    float: center;
+}
+
+.burger-image {
+    padding-left: 500px;
+    /* align-content: center; */
+    width: 350px;
+    height: 300px;
+}
+
+.heading {
+    text-align: center;
+    color: #561515f0;
+}
+
+.create-form {
+    text-align: center;
+}
+
+#bu {
+    width: 275px;
+    height: 45px;
+}
+
+#sub {
+    width: 100px;
+    height: 30px;
+    background-color: #3d3b73;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    font-size: 15px;
+    color: white;
+}
